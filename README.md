@@ -3,7 +3,7 @@
 
 Computer science graduate and aspiring software developer  
 interested in building fun, interactive, and beautiful experiences  
-for the Web (graphics ◆ creative coding).
+for the Web (◆ creative coding).
 
 Obsessed with performance and clean code.
 
