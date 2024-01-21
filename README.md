@@ -1,4 +1,4 @@
-# Hi, I'm [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue.svg)](https://www.linkedin.com/in/godfrey-mpuya/)
+# Hi, I'm [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue.svg)](https://www.linkedin.com/in/godfrey-mpuya-987035191/)
  :wave:
 
 Computer science graduate and aspiring software developer  
